@@ -48,11 +48,13 @@ while True:
 
 Client:
 
-![image](https://github.com/Hemanthreddy0321/2c.ARP_RARP_PROTOCOLS/assets/150005937/6b57c2c7-fd1b-4e75-8d6e-0822d3b4679d)
+![image](https://github.com/Hemanthreddy0321/2c.ARP_RARP_PROTOCOLS/assets/150005937/42f952fa-0116-4f5d-85c7-f86d11d94368)
+
 
 Server:
 
-![image](https://github.com/Hemanthreddy0321/2c.ARP_RARP_PROTOCOLS/assets/150005937/79c2f622-0511-4c93-8360-bccb36952e70)
+![image](https://github.com/Hemanthreddy0321/2c.ARP_RARP_PROTOCOLS/assets/150005937/901b628d-5b59-4a29-8d64-7f5245d25c0f)
+
 
 
 
@@ -90,11 +92,16 @@ while True:
 
 Client:
 
-![image](https://github.com/Hemanthreddy0321/2c.ARP_RARP_PROTOCOLS/assets/150005937/b0f24f38-995c-4f59-b0f3-bdddf3b1b4f0)
+![image](https://github.com/Hemanthreddy0321/2c.ARP_RARP_PROTOCOLS/assets/150005937/0fed9250-d6c0-41fd-846f-08248706dde1)
+
+
 
 Server:
 
-![image](https://github.com/Hemanthreddy0321/2c.ARP_RARP_PROTOCOLS/assets/150005937/e37f5841-e078-433e-95c8-3dfa8fbabbbe)
+![image](https://github.com/Hemanthreddy0321/2c.ARP_RARP_PROTOCOLS/assets/150005937/9881f1e4-86c1-41e4-85b3-79c12907058a)
+
+
+
 
 
 ## RESULT
