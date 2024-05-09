@@ -1,4 +1,9 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+
+Name: HEMANTH A
+
+REG NO: 212223220035
+
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
@@ -18,7 +23,7 @@ stored.
 P
 ## PROGRAM - ARP
 
-Client.py:
+CLIENT :
 ```
 import socket
 s=socket.socket()
@@ -33,7 +38,7 @@ while True:
     except KeyError:
      c.send("Not Found".encode())
 ```
-server.py
+SERVER :
 ```
  import socket
 s=socket.socket()
@@ -46,12 +51,12 @@ while True:
 
 ## OUPUT - ARP
 
-Client:
+CLIENT :
 
 ![image](https://github.com/Hemanthreddy0321/2c.ARP_RARP_PROTOCOLS/assets/150005937/42f952fa-0116-4f5d-85c7-f86d11d94368)
 
 
-Server:
+SERVER :
 
 ![image](https://github.com/Hemanthreddy0321/2c.ARP_RARP_PROTOCOLS/assets/150005937/901b628d-5b59-4a29-8d64-7f5245d25c0f)
 
@@ -61,7 +66,7 @@ Server:
 
 ## PROGRAM - RARP
 
-Client.py:
+CLIENT :
 ```
 import socket
 s=socket.socket()
@@ -76,7 +81,7 @@ while True:
  except KeyError:
     c.send("Not Found".encode()
 ```
-server.py:
+SERVER :
 ```
  import socket
 s=socket.socket()
@@ -90,15 +95,17 @@ while True:
 
 ## OUPUT -RARP
 
-Client:
+CLIENT :
 
-![image](https://github.com/Hemanthreddy0321/2c.ARP_RARP_PROTOCOLS/assets/150005937/0fed9250-d6c0-41fd-846f-08248706dde1)
+![image](https://github.com/Hemanthreddy0321/2c.ARP_RARP_PROTOCOLS/assets/150005937/cfcdebb3-3be5-4a8b-8098-2f16d595ed0f)
 
 
 
-Server:
 
-![image](https://github.com/Hemanthreddy0321/2c.ARP_RARP_PROTOCOLS/assets/150005937/9881f1e4-86c1-41e4-85b3-79c12907058a)
+SERVER :
+
+![image](https://github.com/Hemanthreddy0321/2c.ARP_RARP_PROTOCOLS/assets/150005937/233b590f-8c97-4d3e-8f3e-c8094689cebf)
+
 
 
 
